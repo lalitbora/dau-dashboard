@@ -44,7 +44,7 @@ def load_data():
 df = load_data()
 
 # Title
-st.title("📊 Daily Active Users Dashboard")
+st.title("Daily Active Users Dashboard")
 
 st.write("Data source: Google Sheets")
 
