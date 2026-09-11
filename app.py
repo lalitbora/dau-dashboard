@@ -4,7 +4,7 @@ import pandas as pd
 # Page settings
 st.set_page_config(
     page_title="DAU Dashboard",
-    page_icon="📊",
+    page_icon="",
     layout="wide"
 )
 
